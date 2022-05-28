@@ -1,0 +1,4 @@
+./DOCS/MENU.md
+#./DOCS/ABOUT.md
+#../bash/DOCS/SUPPORTED.md
+./DOCS/FOOT.md

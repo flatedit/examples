@@ -1,0 +1,2 @@
+./DOCS/MENU.md
+./DOCS/FOOT.md
