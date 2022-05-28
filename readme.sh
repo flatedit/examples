@@ -1,2 +1,2 @@
 #!/bin/bash
-./flatedit/readme.md readme.txt
+./flatedit/readme.sh readme.txt

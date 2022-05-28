@@ -1,5 +1,5 @@
 ./DOCS/MENU.md
-#./DOCS/ABOUT.md
-#../bash/DOCS/SUPPORTED.md
-../bash/DOCS/TODO.md
+./DOCS/ABOUT.md
+./DOCS/DOCS.md
+./DOCS/INSTALL.md
 ./DOCS/FOOT.md
